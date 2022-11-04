@@ -22,12 +22,7 @@ function firstQuestion(){
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        backdrop: `
-              rgba(0,0,123,0.4)
-              url("img/happy-birthday.gif")
-              mid
-              no-repeat
-            `,
+        Url: 'happy-birthday.gif',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
