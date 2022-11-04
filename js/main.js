@@ -22,7 +22,13 @@ function firstQuestion(){
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        Url: 'happy-birthday.gif',
+    
+        $('#imgur').gifplayer({
+        mode: 'video',
+        
+        mp4: '//i.imgur.com/a/aNsigix.mp4'
+        });
+        
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
