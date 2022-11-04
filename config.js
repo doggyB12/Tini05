@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Em à!',
+    introTitle: 'Nị ngu!',
     introDesc: `Bầu trời đêm nay không mây không sao
     trăng treo trên cao trong lòng anh vẫn nhớ nhung em nhiều
     Anh làm sao có thể ngừng suy nghĩ đến đôi môi em
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Em thèm anh quá đi à <33333333',
     mess: 'Anh biết mà 🥰',
-    messDesc: 'Qua dịch dẫn em iu đi chơi tới sáng',
+    messDesc: 'Mai qua trả bài tới sáng luôn',
     btnAccept: 'Okieee lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
