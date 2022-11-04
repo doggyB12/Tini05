@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'Xạo quá ông :33',
     question:'Trên thế giới hơn 7 tỉ người mà anh lại yêu em <333',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Em thèm anh quá đi à <33333333',
+    reply: 'Em cũng iu anh ạ <33333333',
     mess: 'Anh biết mà 🥰',
-    messDesc: 'Mai qua trả bài tới sáng luôn',
+    messDesc: 'Chúc bé sinh nhật zui zẻ, mai qua trả bài tới sáng luôn',
     btnAccept: 'Okieee lun <3',
     messLink: 'https://www.facebook.com/tatbao1211.03/'
 }
