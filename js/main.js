@@ -25,7 +25,7 @@ function firstQuestion(){
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/happy-birthday.gif")
-              left top
+              mid
               no-repeat
             `,
         imageWidth: 300,
