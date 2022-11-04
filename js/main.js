@@ -107,7 +107,7 @@ $('#yes').click(function() {
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
-              url("img/cutegif.gif")
+              url("img/cutegif2.gif")
               left top
               no-repeat
             `,
